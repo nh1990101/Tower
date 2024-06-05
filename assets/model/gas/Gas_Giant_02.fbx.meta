@@ -1,0 +1,281 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 992
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3292": {
+      "importer": "gltf-embeded-image",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@a3292",
+      "displayName": "",
+      "id": "a3292",
+      "name": "EmissiveColor_Texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "71b9e": {
+      "importer": "texture",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@71b9e",
+      "displayName": "",
+      "id": "71b9e",
+      "name": "EmissiveColor_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@a3292"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@fd73d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bf1": {
+      "importer": "gltf-material",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@11bf1",
+      "displayName": "",
+      "id": "11bf1",
+      "name": "Planets.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e980": {
+      "importer": "gltf-scene",
+      "uuid": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@3e980",
+      "displayName": "",
+      "id": "3e980",
+      "name": "Gas_Giant_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "EmissiveColor_Texture",
+        "uri": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@a3292"
+      },
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@fd73d"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@3e980",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [
+        "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@71b9e",
+        "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@4f17a"
+      ],
+      "materials": [
+        "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@11bf1"
+      ],
+      "scenes": [
+        "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@3e980"
+      ]
+    },
+    "materials": {
+      "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@11bf1": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "7195de79-501e-468b-bc62-457568bf49b1",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_TEXTURE": true
+          },
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "04ca835e-513d-4be7-96dd-f1c3f1f7ac43@4f17a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {
+            "rimColor": {
+              "__type__": "cc.Color",
+              "r": 214,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "outlineParams": {
+              "__type__": "cc.Vec4",
+              "x": 0.3,
+              "y": 0.3,
+              "z": 37.9,
+              "w": 1
+            }
+          },
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

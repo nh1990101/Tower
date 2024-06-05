@@ -1,0 +1,187 @@
+{
+    "config": {
+        "skyObj": [
+            {
+                "index": 20,
+                "list": [
+                    {
+                        "name": "bloom1",
+                        "pos": [
+                            -3,
+                            16,
+                            -15
+                        ]
+                    },
+                    {
+                        "name": "bloom2",
+                        "pos": [
+                            3,
+                            20,
+                            -10
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 40,
+                "list": [
+                    {
+                        "name": "Helicopter",
+                        "pos": [
+                            0,
+                            11,
+                            0
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 60,
+                "list": [
+                    {
+                        "name": "flyShip",
+                        "pos": [
+                            1,
+                            13,
+                            0
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 90,
+                "list": [
+                    {
+                        "name": "Rocket",
+                        "pos": [
+                            0,
+                            -5,
+                            -10
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 110,
+                "list": [
+                    {
+                        "name": "planet0",
+                        "pos": [
+                            15,
+                            55,
+                            -85
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 125,
+                "list": [
+                    {
+                        "name": "spaceMan",
+                        "pos": [
+                            -3,
+                            10,
+                            -10
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 170,
+                "list": [
+                    {
+                        "name": "planet1",
+                        "pos": [
+                            -8,
+                            50,
+                            -78
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 200,
+                "list": [
+                    {
+                        "name": "satellite",
+                        "pos": [
+                            -6,
+                            15,
+                            -30
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 230,
+                "list": [
+                    {
+                        "name": "planet2",
+                        "pos": [
+                            13,
+                            83,
+                            -125
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 290,
+                "list": [
+                    {
+                        "name": "planet3",
+                        "pos": [
+                            10,
+                            120,
+                            -201
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 350,
+                "list": [
+                    {
+                        "name": "ufo",
+                        "pos": [
+                            0,
+                            5,
+                            -5
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 440,
+                "list": [
+                    {
+                        "name": "planet4",
+                        "pos": [
+                            18,
+                            91,
+                            -148
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 550,
+                "list": [
+                    {
+                        "name": "planet5",
+                        "pos": [
+                            22,
+                            161,
+                            -250
+                        ]
+                    }
+                ]
+            }
+        ],
+        "maxHp": 3,
+        "perFloorScore": 1000,
+        "continuteAwardRate": 2,
+        "continuteCountTime": 10
+    }
+}

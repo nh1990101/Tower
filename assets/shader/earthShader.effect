@@ -1,0 +1,70 @@
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: earth-vs:vert
+      frag: earth-fs:frag
+      properties: &props
+        mainTexture:  { value: grey         }
+        allOffset:    { value: [0, 0, 0, 0] }
+        dist:         { value: 1            }
+        watchPos: {value: [0,0,0,0]}
+        radios: {value: 10.0}
+ 
+}%
+
+CCProgram earth-vs %{
+  precision highp float;
+  #include <builtin/uniforms/cc-global>
+  #include <builtin/uniforms/cc-local>
+
+  in vec3 a_position;
+  in vec2 a_texCoord;
+  out vec2 v_uv;
+
+  uniform Constants {
+    vec4 allOffset;
+    vec4 watchPos;
+    float dist;
+    float radios;
+  };
+
+ vec4 vert () {
+
+    // float zOff = vpos.z / dist;
+    // vpos += allOffset * zOff * zOff;
+   
+    vec3 circleCenter = vec3(watchPos.x,watchPos.y-radios,watchPos.z);
+    vec3 v1=normalize(a_position-circleCenter);
+    vec3 v2=normalize(watchPos.xyz-circleCenter);
+    float angle=(180.0-degrees(acos(dot(v1,v2))))*0.5;
+    float d=distance(a_position,watchPos.xyz);
+    vec4 vertex = vec4(a_position.x,a_position.y-d/tan(radians(angle)),a_position.z, 1.0);
+    vec4 vpos = cc_matView * cc_matWorld * vertex;
+    
+    vec4 pos = cc_matProj * vpos;
+
+    v_uv = a_texCoord;
+    #if FLIP_UV
+      v_uv.y = 1.0 - v_uv.y;
+    #endif
+    return pos;
+  
+  }
+}%
+
+CCProgram earth-fs %{
+  precision highp float;
+  #include <legacy/output>
+
+  in vec2 v_uv;
+  uniform sampler2D mainTexture;
+
+  vec4 frag () {
+    vec4 o = vec4(1, 1, 1, 1);
+
+    o *= texture(mainTexture, v_uv);
+
+    return CCFragOutput(o);
+  }
+}% 

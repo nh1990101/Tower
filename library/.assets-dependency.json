@@ -1,0 +1,1275 @@
+{
+  "uuid": {
+    "D:\\Project\\cocos\\test\\assets\\material\\boxColor.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "74bf6023-6926-4efc-9c4b-e1e7ec456f4a",
+      "9b20a514-6cc3-49de-b216-b6b863046249"
+    ],
+    "D:\\Project\\cocos\\test\\assets\\material\\MassMtl.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "74bf6023-6926-4efc-9c4b-e1e7ec456f4a"
+    ],
+    "D:\\Project\\cocos\\test\\assets\\material\\FloorMtl.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "4a31bd46-8da1-4d9a-add5-9ac43967159e",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+      "9b20a514-6cc3-49de-b216-b6b863046249"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\boxColor.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\FloorMtl.mtl": [
+      "9b20a514-6cc3-49de-b216-b6b863046249"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\MassMtl.mtl": [
+      "74bf6023-6926-4efc-9c4b-e1e7ec456f4a"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyMtl.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\material.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyBox.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyMtl2.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth1.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth2.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth3.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earthMtl.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "bab6062e-03a2-4901-a1ae-a31fb1931baf"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\gas.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\cloud.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\frog.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material-003.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_001.mtl": [
+      "aa235cdc-bafe-46ea-9e07-f199ccc7c980"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_002.mtl": [
+      "b61d8868-4f63-42f7-a310-6c10e9c05e90"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_003.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_003_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_004_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_004.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_005.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_005_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_006.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_007.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_007_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_008.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\test_material_008_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_02_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_03_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_04_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_05.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Electro_05_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_02_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_03_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_04_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_05.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_06.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_06_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_07.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_frie_08_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_gldd_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_gldd_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_02_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_03_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_04_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_05.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_05_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_06.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_06_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_07.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_07_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_08_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_09.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_10.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_10_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_11.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_11_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_12.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_12_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_13.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_13_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_14.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_14_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_15.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_15_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_16.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_16_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_17.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_17_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_18.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_glow_18_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_02_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_03_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_04_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_05.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_06.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_06_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_07.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_07_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_08_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_09.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_10.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_10_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_11.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Line_11_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_02_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_03_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_04_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_05.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_05_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_06.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_06_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_07.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_07_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_08_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_09.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_09_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_10.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_10_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_11.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_11_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_12.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_12_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_13.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_13_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_14.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_14_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_15.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_15_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_16.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_16_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_17.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_17_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_18.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_18_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_19.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_19_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_20.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_lizi_20_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Mask_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_Mask_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_01_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_03_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_04_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_05_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_06_gpu-001.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_06_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_07.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_07_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_08_gpu.mtl": [
+      "971bdb23-3ff6-43eb-b422-1c30165a3663"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mesh\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\res\\model\\role\\role01\\DefaultMaterial.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\res\\model\\role\\role01\\role01.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\res\\model\\scene\\an\\3.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\res\\model\\scene\\skyBoxTex\\fog.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\res\\model\\scene\\an\\youanzong.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_smoke_05.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\mat\\Tex_star_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\growLight.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "58781a5f-ccf6-4a45-93c1-982e51e57ebe"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\bloom.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\bloomYellow.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\bloomRed.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\model\\rocket\\Materials_Rocket\\body.mtl": [
+      "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\model\\rocket\\Materials_Rocket\\tete.mtl": [
+      "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\model\\rocket\\Materials_Rocket\\glasss.mtl": [
+      "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\bloomGreen.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\bloomWhite.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\ufoOutLight.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "58781a5f-ccf6-4a45-93c1-982e51e57ebe"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\material\\firstFloorGuideMtl.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "6a5d7d21-0be5-48f1-a87b-0597781838b2"
+    ]
+  },
+  "path": {
+    "D:\\Project\\cocos\\test\\assets\\shader\\MassObj.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\test\\assets\\chunks\\vs.chunk",
+      "D:\\Project\\cocos\\test\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\test\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\test\\assets\\chunks\\fs.chunk",
+      "D:\\Project\\cocos\\test\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\test\\assets\\chunks\\common\\color\\gamma.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\MassObj.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\earthShader.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\earth-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\earth-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\earth-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\earth-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\_HouseConstructionSite-AllInOneObject_.fbx@05da8": [
+      "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\ImphenziaPalette01-256-Gradient.png"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Ground.fbx@05da8": [
+      "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\ImphenziaPalette01-256-Gradient.png"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\builtin-standard.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\macro-remapping.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\effect-macros\\common-macros.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\includes\\common-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\data-structures\\vs-input.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\data-structures\\vs-output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\data-structures\\vs-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\data-structures\\vs-intermediate.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surface-vertex.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\includes\\standard-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\default-functions\\common-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\module-functions\\common-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\includes\\common-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\data-structures\\fs-input.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-sh.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-reflection-probe.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\tone-mapping.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\aces.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\number.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\octahedron-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\mesh\\material.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\texture\\cubemap.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\sh.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\probe.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\light-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surface-fragment.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\includes\\standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\includes\\common.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\data-structures\\lighting-intermediate-data.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\data-structures\\lighting-result.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\data-structures\\lighting-misc-data.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\default-functions\\standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\model-functions\\standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\brdf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\bxdf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\model-functions\\standard-common.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\includes\\standard-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\data-structures\\standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\default-functions\\standard-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\module-functions\\standard-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-models\\lighting-flow\\common-flow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\module-functions\\debug-view.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\pipeline\\forward-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\pipeline\\deferred-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\effect-macros\\render-to-shadowmap.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-shadowmap\\vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-shadowmap\\fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\reflect-map-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-to-reflectmap\\fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\planar-shadow-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\surfaces\\effect-macros\\render-planar-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-planar-shadow\\vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\planar-shadow-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-entries\\main-functions\\render-planar-shadow\\fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\standard-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\macro-remapping.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\effect-macros\\common-macros.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\includes\\common-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\data-structures\\vs-input.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\data-structures\\vs-output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\data-structures\\vs-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\data-structures\\vs-intermediate.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surface-vertex.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\includes\\standard-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\default-functions\\common-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\module-functions\\common-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\standard-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\includes\\common-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\data-structures\\fs-input.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-sh.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-reflection-probe.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\tone-mapping.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\aces.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\number.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\octahedron-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\mesh\\material.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\texture\\cubemap.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\sh.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\probe.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\light-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surface-fragment.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\includes\\standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\includes\\common.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\data-structures\\lighting-intermediate-data.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\data-structures\\lighting-result.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\data-structures\\lighting-misc-data.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\default-functions\\standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\model-functions\\standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\brdf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\bxdf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\model-functions\\standard-common.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\includes\\standard-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\data-structures\\standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\default-functions\\standard-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\module-functions\\standard-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\lighting-models\\lighting-flow\\common-flow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\module-functions\\debug-view.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\pipeline\\forward-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-scene\\pipeline\\deferred-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\effect-macros\\render-to-shadowmap.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-shadowmap\\vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shadow-caster-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-shadowmap\\fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\reflect-map-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-to-reflectmap\\fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\planar-shadow-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\surfaces\\effect-macros\\render-planar-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-planar-shadow\\vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\planar-shadow-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shading-entries\\main-functions\\render-planar-shadow\\fs.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\shader\\dissolve-effect.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lightingmap-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\standard-surface-entry.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\number.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-reflection-probe.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\probe.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\sh-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-sh.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\sh.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\aces.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard-additive.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lighting.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-cluster-additive.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\octahedron-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lightingmap-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\light-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\standard-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\lightingmap-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\standard-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\standard-surface-entry.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shading-standard-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\number.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-reflection-probe.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\probe.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\sh-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-sh.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\sh.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\aces.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shading-standard-additive.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\lighting.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shading-cluster-additive.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\octahedron-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\lightingmap-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\light-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\ Universal cartoon particle FX I\\shader\\warpDistort.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-fs.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\outline.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\sh-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lightingmap-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\standard-surface-entry.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\number.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-reflection-probe.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\probe.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\sh-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-sh.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\sh.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\aces.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard-additive.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lighting.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-cluster-additive.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\octahedron-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lightingmap-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\light-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fx-outline-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fx-outline-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\standard-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\sh-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\lightingmap-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\standard-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\standard-surface-entry.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shading-standard-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\number.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-reflection-probe.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\probe.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\sh-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-sh.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\sh.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\aces.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shading-standard-additive.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\lighting.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shading-cluster-additive.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\octahedron-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\lightingmap-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\light-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\fx-outline-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\fx-outline-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\effect.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\main-functions\\general-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\general-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\main-functions\\general-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\general-vs.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\outline-unlit.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\aces.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fx-outline-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\sh-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fx-outline-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\planar-shadow-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\planar-shadow-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\input.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\aces.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\fx-outline-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\sh-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\fx-outline-fs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\planar-shadow-vs.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\common\\lighting\\functions.chunk",
+      "D:\\Project\\cocos\\Tower\\assets\\chunks\\planar-shadow-fs.chunk"
+    ],
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\common.plist": [
+      "D:\\Project\\cocos\\Tower\\assets\\UI\\common.png"
+    ]
+  }
+}

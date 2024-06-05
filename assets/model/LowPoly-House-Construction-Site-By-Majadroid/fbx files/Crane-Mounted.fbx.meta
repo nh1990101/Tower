@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3",
+  "files": [],
+  "subMetas": {
+    "73577": {
+      "importer": "gltf-material",
+      "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@73577",
+      "displayName": "",
+      "id": "73577",
+      "name": "Submission_Diffuse_Shader.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6bf16": {
+      "importer": "gltf-mesh",
+      "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@6bf16",
+      "displayName": "",
+      "id": "6bf16",
+      "name": "Cube.077.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2152
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bf0f": {
+      "importer": "gltf-scene",
+      "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@4bf0f",
+      "displayName": "",
+      "id": "4bf0f",
+      "name": "Crane-Mounted.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@4bf0f",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@6bf16"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@7d6ab"
+      ],
+      "materials": [
+        "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@73577"
+      ],
+      "scenes": [
+        "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3@4bf0f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349",
+  "files": [],
+  "subMetas": {
+    "31354": {
+      "importer": "gltf-material",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@31354",
+      "displayName": "",
+      "id": "31354",
+      "name": "Submission_Diffuse_Shader.001.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73577": {
+      "importer": "gltf-material",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@73577",
+      "displayName": "",
+      "id": "73577",
+      "name": "Submission_Diffuse_Shader.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5f8b": {
+      "importer": "gltf-mesh",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@a5f8b",
+      "displayName": "",
+      "id": "a5f8b",
+      "name": "Plane.001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 496
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8fac0": {
+      "importer": "gltf-mesh",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@8fac0",
+      "displayName": "",
+      "id": "8fac0",
+      "name": "Plane.006.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 43142
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e49e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@5e49e",
+      "displayName": "",
+      "id": "5e49e",
+      "name": "base_color_texture-0.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "0a1ef": {
+      "importer": "texture",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@0a1ef",
+      "displayName": "",
+      "id": "0a1ef",
+      "name": "base_color_texture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cba82e57-6bc3-4041-a11f-dea67d052349@5e49e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05da8": {
+      "importer": "texture",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@05da8",
+      "displayName": "",
+      "id": "05da8",
+      "name": "base_color_texture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/LowPoly-House-Construction-Site-By-Majadroid/ImphenziaPalette01-256-Gradient.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee4a2": {
+      "importer": "gltf-scene",
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349@ee4a2",
+      "displayName": "",
+      "id": "ee4a2",
+      "name": "_HouseConstructionSite-AllInOneObject_.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "cba82e57-6bc3-4041-a11f-dea67d052349@5e49e"
+      },
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/model/LowPoly-House-Construction-Site-By-Majadroid/ImphenziaPalette01-256-Gradient.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cba82e57-6bc3-4041-a11f-dea67d052349@ee4a2",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "cba82e57-6bc3-4041-a11f-dea67d052349@a5f8b",
+        "cba82e57-6bc3-4041-a11f-dea67d052349@8fac0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cba82e57-6bc3-4041-a11f-dea67d052349@0a1ef",
+        "cba82e57-6bc3-4041-a11f-dea67d052349@05da8"
+      ],
+      "materials": [
+        "cba82e57-6bc3-4041-a11f-dea67d052349@73577",
+        "cba82e57-6bc3-4041-a11f-dea67d052349@31354"
+      ],
+      "scenes": [
+        "cba82e57-6bc3-4041-a11f-dea67d052349@ee4a2"
+      ]
+    }
+  }
+}

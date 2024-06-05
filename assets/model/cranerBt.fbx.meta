@@ -1,0 +1,234 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2688
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bfc4": {
+      "importer": "gltf-mesh",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@2bfc4",
+      "displayName": "",
+      "id": "2bfc4",
+      "name": "Scene_LOD1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 1,
+        "lodOptions": {
+          "faceCount": 0.625
+        },
+        "triangleCount": 2566
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bfd9": {
+      "importer": "gltf-mesh",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@4bfd9",
+      "displayName": "",
+      "id": "4bfd9",
+      "name": "Scene_LOD2.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 2,
+        "lodOptions": {
+          "faceCount": 0.25
+        },
+        "triangleCount": 2566
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72aa1": {
+      "importer": "gltf-mesh",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@72aa1",
+      "displayName": "",
+      "id": "72aa1",
+      "name": "Scene_LOD3.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 3,
+        "lodOptions": {
+          "faceCount": 0.1
+        },
+        "triangleCount": 2566
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f00db710-43f7-458c-8930-0cf24d57e88d@fd73d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e6ea": {
+      "importer": "gltf-material",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@4e6ea",
+      "displayName": "",
+      "id": "4e6ea",
+      "name": "PolygonConstruction_Mat_01_A.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f96bd": {
+      "importer": "gltf-scene",
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d@f96bd",
+      "displayName": "",
+      "id": "f96bd",
+      "name": "cranerBt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "f00db710-43f7-458c-8930-0cf24d57e88d@fd73d"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f00db710-43f7-458c-8930-0cf24d57e88d@f96bd",
+    "lods": {
+      "enable": true,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.1875,
+          "faceCount": 0.625
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f00db710-43f7-458c-8930-0cf24d57e88d@a62fe",
+        "f00db710-43f7-458c-8930-0cf24d57e88d@2bfc4",
+        "f00db710-43f7-458c-8930-0cf24d57e88d@4bfd9",
+        "f00db710-43f7-458c-8930-0cf24d57e88d@72aa1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f00db710-43f7-458c-8930-0cf24d57e88d@4f17a"
+      ],
+      "materials": [
+        "f00db710-43f7-458c-8930-0cf24d57e88d@4e6ea"
+      ],
+      "scenes": [
+        "f00db710-43f7-458c-8930-0cf24d57e88d@f96bd"
+      ]
+    },
+    "meshOptimize": {
+      "enable": true,
+      "vertexCache": true,
+      "vertexFetch": true
+    },
+    "meshSimplify": {
+      "enable": true,
+      "targetRatio": 0.5,
+      "errorRate": 0.5
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

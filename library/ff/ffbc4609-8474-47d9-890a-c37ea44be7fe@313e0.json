@@ -1,0 +1,123 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 17976,
+          "length": 5640,
+          "count": 2820,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          1
+        ],
+        "indexView": {
+          "offset": 43368,
+          "length": 4536,
+          "count": 2268,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          2
+        ],
+        "indexView": {
+          "offset": 59568,
+          "length": 2724,
+          "count": 1362,
+          "stride": 2
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 17976,
+          "count": 749,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 23616,
+          "length": 19752,
+          "count": 823,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 47904,
+          "length": 11664,
+          "count": 486,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -0.009999999776482582,
+      "y": -0.02091575227677822,
+      "z": -0.0016613389598205686
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0.008124999701976776,
+      "y": 0.009999999776482582,
+      "z": 0
+    }
+  },
+  "_hash": 2929325846,
+  "_allowDataAccess": true
+}

@@ -1,0 +1,241 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1076
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bfc4": {
+      "importer": "gltf-mesh",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@2bfc4",
+      "displayName": "",
+      "id": "2bfc4",
+      "name": "Scene_LOD1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 1,
+        "lodOptions": {
+          "faceCount": 0.25
+        },
+        "triangleCount": 1076
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bfd9": {
+      "importer": "gltf-mesh",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@4bfd9",
+      "displayName": "",
+      "id": "4bfd9",
+      "name": "Scene_LOD2.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 2,
+        "lodOptions": {
+          "faceCount": 0.1
+        },
+        "triangleCount": 1076
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3292": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@a3292",
+      "displayName": "",
+      "id": "a3292",
+      "name": "EmissiveColor_Texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "71b9e": {
+      "importer": "texture",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@71b9e",
+      "displayName": "",
+      "id": "71b9e",
+      "name": "EmissiveColor_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@a3292"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@fd73d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bf1": {
+      "importer": "gltf-material",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@11bf1",
+      "displayName": "",
+      "id": "11bf1",
+      "name": "Planets.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f91f8": {
+      "importer": "gltf-scene",
+      "uuid": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@f91f8",
+      "displayName": "",
+      "id": "f91f8",
+      "name": "Erath Like Planet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "EmissiveColor_Texture",
+        "uri": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@a3292"
+      },
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@fd73d"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c68e7613-70e5-4aea-8e64-8c15f8cdf671@f91f8",
+    "lods": {
+      "enable": true,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@a62fe",
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@2bfc4",
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@4bfd9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@71b9e",
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@4f17a"
+      ],
+      "materials": [
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@11bf1"
+      ],
+      "scenes": [
+        "c68e7613-70e5-4aea-8e64-8c15f8cdf671@f91f8"
+      ]
+    }
+  }
+}

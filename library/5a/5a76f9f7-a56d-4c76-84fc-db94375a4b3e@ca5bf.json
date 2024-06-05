@@ -1,0 +1,151 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 113184,
+          "length": 33072,
+          "count": 8268,
+          "stride": 4
+        },
+        "cluster": {
+          "clusterView": {
+            "offset": 165776,
+            "length": 2144,
+            "count": 44,
+            "stride": 16
+          },
+          "vertexView": {
+            "offset": 200336,
+            "length": 34304,
+            "count": 2358,
+            "stride": 4
+          },
+          "triangleView": {
+            "offset": 403824,
+            "length": 199392,
+            "count": 8268,
+            "stride": 12
+          }
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          1
+        ],
+        "indexView": {
+          "offset": 159840,
+          "length": 3792,
+          "count": 948,
+          "stride": 4
+        },
+        "cluster": {
+          "clusterView": {
+            "offset": 166032,
+            "length": 256,
+            "count": 5,
+            "stride": 16
+          },
+          "vertexView": {
+            "offset": 204432,
+            "length": 4096,
+            "count": 283,
+            "stride": 4
+          },
+          "triangleView": {
+            "offset": 427632,
+            "length": 23808,
+            "count": 948,
+            "stride": 12
+          }
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 113184,
+          "count": 2358,
+          "stride": 48
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 44,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 146256,
+          "length": 13584,
+          "count": 283,
+          "stride": 48
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 44,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "x": -0.010059621185064316,
+      "y": -0.01005962397903204,
+      "z": -0.010008108802139759
+    },
+    "maxPosition": {
+      "x": 0.010059628635644913,
+      "y": 0.010059625841677189,
+      "z": 0.0016410746611654758
+    },
+    "cluster": true,
+    "compressed": true
+  },
+  "_hash": 1265167094,
+  "_allowDataAccess": true
+}

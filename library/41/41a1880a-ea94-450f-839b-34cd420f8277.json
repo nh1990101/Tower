@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.Material",
+  "_name": "earthMtl",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "bab6062e-03a2-4901-a1ae-a31fb1931baf",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "c15f95b9-afe9-4834-8654-761b4f89331a@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "dist": 100,
+      "radios": 2
+    }
+  ]
+}

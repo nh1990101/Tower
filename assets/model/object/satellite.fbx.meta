@@ -1,0 +1,256 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780",
+  "files": [],
+  "subMetas": {
+    "7e416": {
+      "importer": "gltf-mesh",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@7e416",
+      "displayName": "",
+      "id": "7e416",
+      "name": "SK_Drone_010.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 6312
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bb60": {
+      "importer": "gltf-mesh",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@2bb60",
+      "displayName": "",
+      "id": "2bb60",
+      "name": "SK_Drone_010_LOD1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 1,
+        "lodOptions": {
+          "faceCount": 0.25
+        },
+        "triangleCount": 2116
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "afbef": {
+      "importer": "gltf-mesh",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@afbef",
+      "displayName": "",
+      "id": "afbef",
+      "name": "SK_Drone_010_LOD2.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "lodLevel": 2,
+        "lodOptions": {
+          "faceCount": 0.1
+        },
+        "triangleCount": 2094
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6aa16": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@6aa16",
+      "displayName": "",
+      "id": "6aa16",
+      "name": "T_SK_Drone_010_C_AO.jpg.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb9aa": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@cb9aa",
+      "displayName": "",
+      "id": "cb9aa",
+      "name": "T_SK_Drone_010_N.jpg.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4433": {
+      "importer": "texture",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@a4433",
+      "displayName": "",
+      "id": "a4433",
+      "name": "T_SK_Drone_010_C_AO.jpg.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@6aa16"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5116": {
+      "importer": "texture",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@e5116",
+      "displayName": "",
+      "id": "e5116",
+      "name": "T_SK_Drone_010_N.jpg.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@cb9aa"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0de2a": {
+      "importer": "gltf-material",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@0de2a",
+      "displayName": "",
+      "id": "0de2a",
+      "name": "MI_Drone_010.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a93cf": {
+      "importer": "gltf-scene",
+      "uuid": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@a93cf",
+      "displayName": "",
+      "id": "a93cf",
+      "name": "satellite.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "T_SK_Drone_010_C_AO.jpg",
+        "uri": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@6aa16"
+      },
+      {
+        "name": "T_SK_Drone_010_N.jpg",
+        "uri": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@cb9aa"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6b4d978c-4bbc-4c71-af4d-a399ceee1780@a93cf",
+    "lods": {
+      "enable": true,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@7e416",
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@2bb60",
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@afbef"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@a4433",
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@e5116"
+      ],
+      "materials": [
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@0de2a"
+      ],
+      "scenes": [
+        "6b4d978c-4bbc-4c71-af4d-a399ceee1780@a93cf"
+      ]
+    },
+    "meshSimplify": {
+      "enable": true,
+      "targetRatio": 0.5,
+      "errorRate": 0.5,
+      "autoErrorRate": true,
+      "lockBoundary": true
+    },
+    "meshOptimize": {
+      "vertexCache": true,
+      "vertexFetch": true
+    },
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "addVertexColor": false,
+    "generateLightmapUVNode": false
+  }
+}

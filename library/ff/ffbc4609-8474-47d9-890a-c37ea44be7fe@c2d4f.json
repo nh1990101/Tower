@@ -1,0 +1,411 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 3408,
+          "length": 432,
+          "count": 216,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          1
+        ],
+        "indexView": {
+          "offset": 7776,
+          "length": 492,
+          "count": 246,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          2
+        ],
+        "indexView": {
+          "offset": 8556,
+          "length": 36,
+          "count": 18,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          3
+        ],
+        "indexView": {
+          "offset": 9168,
+          "length": 72,
+          "count": 36,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          4
+        ],
+        "indexView": {
+          "offset": 46584,
+          "length": 4728,
+          "count": 2364,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          5
+        ],
+        "indexView": {
+          "offset": 67632,
+          "length": 2040,
+          "count": 1020,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          6
+        ],
+        "indexView": {
+          "offset": 69864,
+          "length": 24,
+          "count": 12,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          7
+        ],
+        "indexView": {
+          "offset": 151416,
+          "length": 10512,
+          "count": 5256,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          8
+        ],
+        "indexView": {
+          "offset": 167952,
+          "length": 780,
+          "count": 390,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          9
+        ],
+        "indexView": {
+          "offset": 173724,
+          "length": 624,
+          "count": 312,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          10
+        ],
+        "indexView": {
+          "offset": 176172,
+          "length": 228,
+          "count": 114,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          11
+        ],
+        "indexView": {
+          "offset": 176784,
+          "length": 48,
+          "count": 24,
+          "stride": 2
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 3408,
+          "count": 142,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 3840,
+          "length": 3936,
+          "count": 164,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 8268,
+          "length": 288,
+          "count": 12,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 8592,
+          "length": 576,
+          "count": 24,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 9240,
+          "length": 37344,
+          "count": 1556,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 51312,
+          "length": 16320,
+          "count": 680,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 69672,
+          "length": 192,
+          "count": 8,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 69888,
+          "length": 81528,
+          "count": 3397,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 161928,
+          "length": 6024,
+          "count": 251,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 168732,
+          "length": 4992,
+          "count": 208,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 174348,
+          "length": 1824,
+          "count": 76,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 176400,
+          "length": 384,
+          "count": 16,
+          "stride": 24
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -0.012908602133393288,
+      "y": -0.036157917231321335,
+      "z": -0.011735090985894203
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0.012996263802051544,
+      "y": 0.031226014718413353,
+      "z": 0
+    }
+  },
+  "_hash": 883647010,
+  "_allowDataAccess": true
+}
